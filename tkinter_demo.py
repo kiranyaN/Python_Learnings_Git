@@ -6,4 +6,4 @@ L=Label(root,text="hello python",bg="light blue",fg="red",font="times 40")
 L.pack()
 root.mainloop()
 
-#ok na ----------------------------????????????????
+#removed comments and addind for the demo
