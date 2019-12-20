@@ -15,8 +15,6 @@ from datetime import *
 month = list(range(1,13))
 year = list(range(1980,2021))
 date = list(range(1,31))
-#artham ayinda???????????????????????????hmm
-#chey ika..three valriables craete chey  #month already vundi
 
 
 
@@ -26,7 +24,7 @@ master.geometry("400x300")
 msg=StringVar()
 variable1 = StringVar(master)
 variable2 = StringVar(master)#chey
-variable3 = StringVar(master)#adjust lable size???????????????
+variable3 = StringVar(master)
 variable2.set(month[0])
 variable3.set(year[0])
 variable1.set(date[0])
